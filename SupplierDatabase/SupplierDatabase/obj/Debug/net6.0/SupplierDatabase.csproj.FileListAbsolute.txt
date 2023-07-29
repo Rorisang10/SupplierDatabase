@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\SupplierDatabase\SupplierDatabase\obj\Debug\net6.0\SupplierDatabase.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\SupplierDatabase\SupplierDatabase\obj\Debug\net6.0\SupplierDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\SupplierDatabase\SupplierDatabase\obj\Debug\net6.0\SupplierDatabase.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\SupplierDatabase\SupplierDatabase\obj\Debug\net6.0\SupplierDatabase.AssemblyInfo.cs
+C:\Users\user\source\repos\SupplierDatabase\SupplierDatabase\obj\Debug\net6.0\SupplierDatabase.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SupplierDatabase\SupplierDatabase\obj\Debug\net6.0\SupplierDatabase.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user\source\repos\SupplierDatabase\SupplierDatabase\obj\Debug\net6.0\SupplierDatabase.MvcApplicationPartsAssemblyInfo.cache
